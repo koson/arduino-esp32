@@ -21,7 +21,7 @@
 #define ESP_H
 
 #include <Arduino.h>
-#include <esp_partition.h>
+#include "../../tools/sdk/esp32/include/spi_flash/include/esp_partition.h"
 #include <hal/cpu_hal.h>
 
 /**

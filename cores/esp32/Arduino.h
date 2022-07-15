@@ -210,6 +210,6 @@ void noTone(uint8_t _pin);
 long random(long);
 #endif /* __cplusplus */
 
-#include "pins_arduino.h"
+#include "../../variants/esp32/pins_arduino.h"
 
 #endif /* _ESP32_CORE_ARDUINO_H_ */
